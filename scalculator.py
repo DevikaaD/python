@@ -4,7 +4,7 @@ print("enter the numbers")
 a = int(input("First number:"))
 b = int(input("Second number"))
 
-print("\n5The operations are:")
+print("\nThe operations are:")
 print("1. Addition")
 print("2. Subtraction")
 print("3. Multiplication")
